@@ -1,0 +1,13 @@
+c:\users\badr-eddine\documents\visual studio 2013\Projects\CrudProject\FlaskWebProject2\bin\Microsoft.PythonTools.WebRole.dll
+c:\users\badr-eddine\documents\visual studio 2013\Projects\CrudProject\FlaskWebProject2\obj\Debug\attach_server.py
+c:\users\badr-eddine\documents\visual studio 2013\Projects\CrudProject\FlaskWebProject2\obj\Debug\visualstudio_py_debugger.py
+c:\users\badr-eddine\documents\visual studio 2013\Projects\CrudProject\FlaskWebProject2\obj\Debug\visualstudio_py_repl.py
+c:\users\badr-eddine\documents\visual studio 2013\Projects\CrudProject\FlaskWebProject2\obj\Debug\visualstudio_py_util.py
+c:\users\badr-eddine\documents\visual studio 2013\Projects\CrudProject\FlaskWebProject2\obj\Debug\__init__.py
+c:\users\badr-eddine\documents\visual studio 2013\Projects\CrudProject\FlaskWebProject2\obj\Debug\__main__.py
+c:\users\badr-eddine\documents\visual studio 2013\Projects\CrudProject\FlaskWebProject2\bin\AzureSetup.cfg
+c:\users\badr-eddine\documents\visual studio 2013\Projects\CrudProject\FlaskWebProject2\bin\Microsoft.PythonTools.AzureSetup.exe
+c:\users\badr-eddine\documents\visual studio 2013\Projects\CrudProject\FlaskWebProject2\bin\Microsoft.PythonTools.AzureSetup.exe.config
+c:\users\badr-eddine\documents\visual studio 2013\Projects\CrudProject\FlaskWebProject2\bin\wfastcgi.py
+c:\users\badr-eddine\documents\visual studio 2013\Projects\CrudProject\FlaskWebProject2\obj\Debug\web.config
+c:\users\badr-eddine\documents\visual studio 2013\Projects\CrudProject\FlaskWebProject2\obj\Debug\web.debug.config
